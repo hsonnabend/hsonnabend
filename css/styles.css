@@ -47,5 +47,7 @@ li{
 }
 
 img {
-vertical-align: middle;
+ width: 50%;
+ height: auto;
+ vertical-align: middle;
 }
