@@ -45,3 +45,8 @@ ul.posts li {
 li{
     margin: 10px 0;
 }
+
+figure {
+width: 18vw;
+text-align: center;
+}
