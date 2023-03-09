@@ -51,3 +51,7 @@ img {
  height: auto;
  vertical-align: middle;
 }
+
+div.a {
+  font-size: small;
+}
