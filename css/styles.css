@@ -54,6 +54,7 @@ img {
 
 
 figure {
+    float: right;
     display: flex;
      margin: auto;
 }
