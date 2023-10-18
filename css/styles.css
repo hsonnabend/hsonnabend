@@ -54,12 +54,13 @@ img {
 
 
 figure {
-    display: flex;;
-     margin: auto
+    display: flex;
+     margin: auto;
 }
 figure img {
     vertical-align: right;
 }
 figure figcaption {
     text-align: center;
+    font: italic smaller sans-serif;
 }
