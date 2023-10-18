@@ -54,8 +54,8 @@ img {
 
 
 figure {
-    display: inline-block;
-     margin: 20px; /* adjust as needed */
+    display: flex;;
+     margin: auto
 }
 figure img {
     vertical-align: right;
