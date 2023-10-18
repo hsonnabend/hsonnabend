@@ -54,14 +54,13 @@ img {
 
 
 figure {
-    float: right;
-    display: flex;
-     margin: auto;
-}
-figure img {
-    vertical-align: right;
-}
-figure figcaption {
-    text-align: center;
-    font: italic smaller sans-serif;
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin silver solid;
+  margin: 0.5em;
+  padding: 0.5em;
 }
