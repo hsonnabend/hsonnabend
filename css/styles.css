@@ -52,3 +52,15 @@ img {
  vertical-align: middle;
 }
 
+
+figure {
+    display: inline-block;
+    border: 1px dotted gray;
+    margin: 20px; /* adjust as needed */
+}
+figure img {
+    vertical-align: right;
+}
+figure figcaption {
+    text-align: center;
+}
