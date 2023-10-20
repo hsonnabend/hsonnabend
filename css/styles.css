@@ -55,6 +55,7 @@ img {
 
 figure {
   float: right;
+  width: 500px;
   text-align: center;
   font-style: italic;
   font-size: smaller;
