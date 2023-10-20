@@ -49,8 +49,8 @@ li{
 
 figure {
   float: right;
-  height: 30%;
-  width: 30%;
+  width: 20%;
+  height: auto
   text-align: center;
   font-style: italic;
   font-size: smaller;
